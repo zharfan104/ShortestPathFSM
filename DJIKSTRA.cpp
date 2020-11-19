@@ -1,6 +1,7 @@
 //Nama	: Zharfan Akbar Andriawan
 //NIM	: 24060117120008
 //Kelas	: A
+//Dari main
 #include <stdio.h> 
 #include <limits.h> 
 #include <iostream>
